@@ -33,12 +33,6 @@ We're finalizing an awesome spot in Austria for our Game Jam. Stay tuned for the
 
 ---
 
-## Our Awesome Sponsors 🎉
-- Sponsor 1  
-- Sponsor 2  
-- Sponsor 3  
-- Sponsor 4
-
 ---
 
 ## Frequently Asked Questions ❓
