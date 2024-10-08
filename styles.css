@@ -72,10 +72,6 @@
             transition: transform 0.3s;
         }
 
-        .logo:hover {
-            transform: rotate(360deg);
-        }
-
         .nav {
             display: flex;
             gap: 1rem;
